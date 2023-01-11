@@ -13,3 +13,8 @@ export LOCALE=en_GB.utf8
 drq -m HighResMIP -e HighResMIP -p 3 --xls
 ```
 
+The final PRIMAVERA data request is available at:
+
+```
+PRIMAVERA/PRIMAVERA_Data_Request_v01_00_13.xlsx
+```
